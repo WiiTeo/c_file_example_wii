@@ -1,2 +1,4 @@
-# c_file_example_wii
+# C File Example Wii
 C File Example for Wii
+
+Made with DevKitPro LibOGC.
